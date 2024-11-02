@@ -1,0 +1,22 @@
+{
+  "name": "pdfkit",
+  "description": "Standalone releases of PDF Kit for Browser including Types",
+  "version": "0.15.1",
+  "homepage": "https://www.npmjs.com/package/pdfkit",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/manga-download/pdfkit"
+  },
+  "files": [
+    "/pdfkit.standalone.js"
+  ],
+  "type": "commonjs",
+  "exports": {
+    ".": {
+      "require": "./pdfkit.standalone.js"
+    }
+  },
+  "dependencies": {
+    "@types/pdfkit": "^0.13.5"
+  }
+}
