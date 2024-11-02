@@ -13,6 +13,7 @@
   "type": "commonjs",
   "exports": {
     ".": {
+      "import": "./pdfkit.standalone.js",
       "require": "./pdfkit.standalone.js"
     }
   },
