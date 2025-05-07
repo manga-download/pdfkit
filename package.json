@@ -1,7 +1,7 @@
 {
   "name": "pdfkit",
   "description": "Standalone releases of PDF Kit for Browser including Types",
-  "version": "0.17.0",
+  "version": "0.17.1",
   "homepage": "https://www.npmjs.com/package/pdfkit",
   "repository": {
     "type": "git",
